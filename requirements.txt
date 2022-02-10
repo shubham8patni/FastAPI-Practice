@@ -1,0 +1,7 @@
+FastAPI
+uvicorn
+sqlalchemy
+db-sqlite3
+passlib
+bcrypt
+python-jose
